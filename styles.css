@@ -1,0 +1,19 @@
+li {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.completed .task-text {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.delete-btn {
+  display: none;
+}
+
+li:hover .delete-btn {
+  display: inline;
+}
