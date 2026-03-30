@@ -12,27 +12,20 @@ I built a function to-do list. I built it to make it easier to manage time and o
 - HTML5
 - CSS3
 - JavaScript
-- (list all technologies)
-
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-## How to Run
-1. Clone this repository
-2. Open `index.html` in your browser
-   OR
-   Run `npm install` then `npm start`
 
 ## Lessons Learned
-What did you learn while building this project?
+DOM Manipulation.
+Event handling.
+Adding Javascript link on HTML.
+Adding & Removing Elements.
 
 ## Challenges Faced
-What problems did you encounter and how did you solve them?
+Understanding DOM Manipulation.
+Handling events properly.
 
 ## Screenshots (optional)
 ![Screenshot description](path/to/screenshot.png)
 
 ## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo](https://github.com/Cynthia-003/iyf-s10-week-05-Cynthia-003)
+add commit .
